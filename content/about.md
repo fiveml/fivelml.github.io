@@ -1,6 +1,6 @@
 ---
 title: "关于"
-date: 2001-11-09
+date: 2000-01-16
 lastmod: 2021-12-14
 menu: "main"
 weight: 50
