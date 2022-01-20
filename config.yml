@@ -1,5 +1,5 @@
 baseURL: "https://fiveml.github.io/"
-title: "猫粮"
+title: "小窝"
 paginate: 15
 theme: PaperMod
 publishDir: "docs"
@@ -62,7 +62,7 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "猫大膘子"
+        Title: "霖霖子~"
         Content:
             "1112 \n
             
