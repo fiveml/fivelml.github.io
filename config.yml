@@ -1,5 +1,5 @@
-baseURL: "https://shenyimings.github.io/"
-title: "Console.makeHappy(_1ming)"
+baseURL: "https://fiveml.github.io/"
+title: "猫粮"
 paginate: 15
 theme: PaperMod
 publishDir: "docs"
@@ -17,9 +17,9 @@ minify:
 params:
     math: true
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: Yiming
-    description: "Yiming' blog"
-    keywords: [Blog, CTF, Geek]
+    title: 改名3
+    description: "改名2"
+    keywords: [Blog]
     author: Me
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -41,7 +41,7 @@ params:
     tocopen: true
 
     label:
-        text: "> 相位 "
+        text: "改名4 "
         icon: /apple-touch-icon.png
         iconHeight: 35
 
@@ -62,20 +62,20 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "Hi, Yiming🚀"
+        Title: "猫大膘子"
         Content:
-            "Either outstanding or out.   \n
+            "1112 \n
             
-            **// System.out.println(new File(\"..\\about_1ming.md\"))**
+            **111**
             "
   
     socialIcons:
         - name: instagram
-          url: "https://www.instagram.com/shenyimings/"
+          url: ""
         - name: github
-          url: "https://github.com/shenyimings/"
+          url: ""
         - name: zhihu
-          url: "https://www.zhihu.com/people/shen-yi-ming-91"
+          url: ""
 
     analytics:
         google:
