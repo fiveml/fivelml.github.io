@@ -1,6 +1,4 @@
 hugo
-git add -A docs
-git add -A content
-git add config.yml
+git add -A .
 git commit -m "ML'blog"
 git push
