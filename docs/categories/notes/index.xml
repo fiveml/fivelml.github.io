@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>猫粮</title>
-    <link>https://fiveml.github.io/</link>
-    <description>Recent content on 猫粮</description>
+    <title>Notes on 猫粮</title>
+    <link>https://fiveml.github.io/categories/notes/</link>
+    <description>Recent content in Notes on 猫粮</description>
     <image>
       <url>https://fiveml.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://fiveml.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://fiveml.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>关于</title>
-      <link>https://fiveml.github.io/about/</link>
-      <pubDate>Fri, 09 Nov 2001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fiveml.github.io/about/</guid>
-      <description>Mao Lin </description>
-    </item>
-    
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://fiveml.github.io/categories/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
       <link>https://fiveml.github.io/post/hello-world/</link>
@@ -27,7 +17,6 @@
       <guid>https://fiveml.github.io/post/hello-world/</guid>
       <description>这是我的第一篇博客 </description>
     </item>
-    
     
   </channel>
 </rss>

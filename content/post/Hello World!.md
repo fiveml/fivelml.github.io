@@ -12,7 +12,7 @@ categories: [
 # weight: 1
 math: true
 ShowToc: false
-draft: true
+draft: false
 typora-root-url: ..\..\static\
 ---
 
