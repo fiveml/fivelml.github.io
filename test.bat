@@ -1,3 +1,0 @@
-hugo
-hugo server
-pause
