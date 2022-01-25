@@ -42,7 +42,7 @@ params:
 
     label:
         text: "FIVE"
-        icon: /android-chrome-192×192.png
+        icon: /apple-touch-icon.png
         iconHeight: 35
 
     # profile-mode
